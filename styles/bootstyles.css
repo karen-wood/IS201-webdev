@@ -1,0 +1,33 @@
+.unorderedlist{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
+
+  .center-graphic {
+    margin:auto;
+    max-width: 900px;
+  }
+
+  .center-text {
+    text-align: center;
+  }
+
+  .tableau-font {
+    font-style: italic;
+  }
+
+  .tableau-color {
+    color:aliceblue
+  }
